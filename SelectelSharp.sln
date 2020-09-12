@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectelSharp", "SelectelSharp\SelectelSharp.csproj", "{E3DC6785-5043-45D1-AAAA-C38273042D01}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectelSharpCore", "SelectelSharpCore\SelectelSharpCore.csproj", "{4277EBCD-9CA1-4106-A0D7-035680D61DA3}"
 EndProject
 Global
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E3DC6785-5043-45D1-AAAA-C38273042D01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E3DC6785-5043-45D1-AAAA-C38273042D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E3DC6785-5043-45D1-AAAA-C38273042D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E3DC6785-5043-45D1-AAAA-C38273042D01}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4277EBCD-9CA1-4106-A0D7-035680D61DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4277EBCD-9CA1-4106-A0D7-035680D61DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4277EBCD-9CA1-4106-A0D7-035680D61DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU

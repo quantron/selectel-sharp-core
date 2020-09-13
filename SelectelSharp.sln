@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectelSharpCore", "SelectelSharpCore\SelectelSharpCore.csproj", "{4277EBCD-9CA1-4106-A0D7-035680D61DA3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectelSharpCore.UnitTests", "SelectelSharpCore.UnitTests\SelectelSharpCore.UnitTests.csproj", "{A0D4C281-FE95-4BB7-B6BA-8CC0DF2A769E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4277EBCD-9CA1-4106-A0D7-035680D61DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4277EBCD-9CA1-4106-A0D7-035680D61DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4277EBCD-9CA1-4106-A0D7-035680D61DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0D4C281-FE95-4BB7-B6BA-8CC0DF2A769E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0D4C281-FE95-4BB7-B6BA-8CC0DF2A769E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0D4C281-FE95-4BB7-B6BA-8CC0DF2A769E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0D4C281-FE95-4BB7-B6BA-8CC0DF2A769E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
